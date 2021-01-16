@@ -1,0 +1,58 @@
+body{
+	box-sizing: border-box;
+}
+h1{
+	color: #2b00d4;;
+	margin-left: 100px;
+	margin-top: 100px;
+   font-size: 4rem;
+   font-weight: 100;
+  
+}
+h2{
+	color: black;
+	line-height: 0px;
+	font-weight: bold;
+	font-size: 4rem;
+	margin-left: 100px;
+	margin-top: 100px;
+}
+.leftdiv{
+	position: absolute;
+	margin-left: 100px;
+	float: left;
+
+	
+}
+.middlediv{
+	position: absolute;
+	margin-top: 100px;
+	margin-left: 600px;
+	float: left;
+
+	
+}
+.rightdiv{
+	position: absolute;
+	margin-top: 100px;
+	margin-right: 100px;
+	float: left;
+	width: 10%;
+
+	
+}
+span.a {
+    margin-bottom: 16px;
+    padding: 12px 24px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: rgba(102,95,130,.15);
+    border-radius: 40px;
+    line-height: 65px;
+    font-weight: 600; 
+    color: grey[10]; 
+
+}
+.middle-container{
+	background-color: pink[100];
+}
